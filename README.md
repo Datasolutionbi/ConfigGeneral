@@ -1,0 +1,2 @@
+# ConfigGeneral
+Config general
