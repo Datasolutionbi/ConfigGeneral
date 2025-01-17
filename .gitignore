@@ -20,5 +20,6 @@
 /qmk_firmware/
 !/qmk_firmware/keyboards/xtips_x7s/keymaps/**
 /snap/**
-!~/emacs-configs/spacemacs/**
-~/emacs-configs/doom-emacs/**
+!~/emacs-configs/spacemacs/snippets/**
+~/emacs-configs/doom-emacs/
+~/emacs-configs/spacemacs/
