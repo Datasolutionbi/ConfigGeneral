@@ -5,10 +5,10 @@
 !~/.tmux/.tmux.conf
 !~/.tmux/.tmux.conf.local
 !~/.tmuxp.conf
-!~/.tmuxp/*
+!~/.tmuxp/**
 !~/.spacemacs
 !~/.zshrc
-!~/qmk_firmware/keyboards/xtips_x7s/keymaps/*
-!~/.doom.d/*
-!~/emacs-configs/spacemacs/config/*
-!~/.config/ranger/*
+!~/qmk_firmware/keyboards/xtips_x7s/keymaps/**
+!~/.doom.d/**
+!~/emacs-configs/spacemacs/config/**
+!~/.config/ranger/**
